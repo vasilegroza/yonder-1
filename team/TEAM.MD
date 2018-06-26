@@ -7,3 +7,4 @@
 5. Vasile
 6. DASKO
 7. Nurcek
+8. Marian
