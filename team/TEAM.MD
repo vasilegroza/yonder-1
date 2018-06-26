@@ -6,3 +6,4 @@
 4. Remy e un bulangiu
 5. Vasile
 6. DASKO
+7. Nurcek
